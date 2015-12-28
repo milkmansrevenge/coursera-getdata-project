@@ -7,7 +7,7 @@ The raw data set was from a link provided by the course [2] but originally came 
 For more detail on how the raw data was collected see the UCI Machine Learning Repository Page [4].
 It was split up into test data and training data but was merged as part of the assignment.
   
-## Variables by column
+## Description of variables
 
 The tidy data is the average of each variable for each activity and each subject from the data set collected by Anguita et al.
   
