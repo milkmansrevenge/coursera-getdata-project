@@ -1,5 +1,5 @@
 # coursera-getdata-project
-At a high level, the run_analysis.R file performs the following steps:
+At a high level, the run_analysis.R file performs the following steps:  
 1. Downloads the file with the accelerometer data
 2. Reads in the test data, including the identifier for the test subject and activity being performed for each observation
 3. Reads in the training data, including the identifier for the test subject and activity being performed for each observation
